@@ -1,0 +1,15 @@
+C:\Users\ict\Desktop\code-TRA\c-sharp-encapsulation\c-sharp-encapsulation\bin\Debug\net6.0\c-sharp-encapsulation.exe
+C:\Users\ict\Desktop\code-TRA\c-sharp-encapsulation\c-sharp-encapsulation\bin\Debug\net6.0\c-sharp-encapsulation.deps.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-encapsulation\c-sharp-encapsulation\bin\Debug\net6.0\c-sharp-encapsulation.runtimeconfig.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-encapsulation\c-sharp-encapsulation\bin\Debug\net6.0\c-sharp-encapsulation.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-encapsulation\c-sharp-encapsulation\bin\Debug\net6.0\c-sharp-encapsulation.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-encapsulation\c-sharp-encapsulation\obj\Debug\net6.0\c-sharp-encapsulation.csproj.AssemblyReference.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-encapsulation\c-sharp-encapsulation\obj\Debug\net6.0\c-sharp-encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ict\Desktop\code-TRA\c-sharp-encapsulation\c-sharp-encapsulation\obj\Debug\net6.0\c-sharp-encapsulation.AssemblyInfoInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-encapsulation\c-sharp-encapsulation\obj\Debug\net6.0\c-sharp-encapsulation.AssemblyInfo.cs
+C:\Users\ict\Desktop\code-TRA\c-sharp-encapsulation\c-sharp-encapsulation\obj\Debug\net6.0\c-sharp-encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-encapsulation\c-sharp-encapsulation\obj\Debug\net6.0\c-sharp-encapsulation.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-encapsulation\c-sharp-encapsulation\obj\Debug\net6.0\refint\c-sharp-encapsulation.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-encapsulation\c-sharp-encapsulation\obj\Debug\net6.0\c-sharp-encapsulation.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-encapsulation\c-sharp-encapsulation\obj\Debug\net6.0\c-sharp-encapsulation.genruntimeconfig.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-encapsulation\c-sharp-encapsulation\obj\Debug\net6.0\ref\c-sharp-encapsulation.dll
